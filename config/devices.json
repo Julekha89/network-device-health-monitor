@@ -1,0 +1,4 @@
+[
+  {"name": "Localhost", "host": "127.0.0.1"},
+  {"name": "Example-DNS", "host": "1.1.1.1"}
+]
